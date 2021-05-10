@@ -1,7 +1,5 @@
 # _Diagnóstico inmediato en jóvenes mexicanos mediante el uso de Procesamiento del Lenguaje Natural_
 
-## Introducción
-
 ## Planteamiento del problema
 
 De acuerdo con [1] y [2], la depresión (trastorno depresivo mayor o depresión clínica) es un trastorno del estado de ánimo común, provoca síntomas graves que afectan la forma de sentir, pensar y realizar las actividades cotidianas de personas de todas edades y puede ser causado por una combinación de factores genéticos, biológicos, ambientales y psicológicos.
