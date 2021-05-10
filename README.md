@@ -8,7 +8,7 @@ Un problema en las ciencias de la salud es el desarrollar instrumentos que permi
 
 ## Objetivo General
 
-Crear un instrumento de alta precision que permita diagnosticar la depresion en jovenes mexicanos mediante el uso de Procesamiento de Lenguaje Natural.
+Crear un instrumento de alta precisión que permita diagnosticar la depresión en jovenes mexicanos mediante el uso de Procesamiento de Lenguaje Natural.
 
 ## Objetivos Específicos
 
